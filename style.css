@@ -345,9 +345,9 @@ section:last-child {
 }
 
 .delayTwo {
-	-webkit-animation-delay: 0, 1.2s;
-	-moz-animation-delay: 0, 1.2s;
-	animation-delay: 0, 1.2s;
+	-webkit-animation-delay: 0, 1.0s;
+	-moz-animation-delay: 0, 1.0s;
+	animation-delay: 0, 1.0s;
 }
 
 .delayThree {
